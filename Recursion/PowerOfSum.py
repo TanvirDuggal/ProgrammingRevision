@@ -37,6 +37,6 @@ def powerSum(X, N):
     
     
 if __name__ == '__main__':
-    X = 1000
+    X = 800
     N = 2
     print(powerSum(X, N))
